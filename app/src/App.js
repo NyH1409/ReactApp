@@ -18,7 +18,7 @@ function App() {
                 <main>
                     <div className="container-fluid px-4">
                         <h1 className="mt-4">Tables</h1>
-                        <Crumb />
+                        <Crumb item1="Dashboard" item2="Tables"></Crumb>
                         <div className="card mb-4">
                             <div className="card-body">
                                 DataTables is a third party plugin that is used to generate the demo table below. For more information about DataTables, please visit the
